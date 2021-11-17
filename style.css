@@ -1,0 +1,15 @@
+#title{
+  background-color: #EDEDED;
+}
+
+#features {
+  background-color:  #ff4c68;
+}
+
+.topic{
+  font-family: 'Montserrat-Black';
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: white;
+}
