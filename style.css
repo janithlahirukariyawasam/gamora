@@ -1,5 +1,5 @@
 #title{
-  background-color: #EDEDED;
+  background-color: #406343;
 }
 
 #features {
@@ -12,4 +12,11 @@
   line-height: 1.5;
   font-weight: bolder;
   color: white;
+}
+
+.container-fluid{
+  padding-top: 3%;
+  padding-right: 15%;
+  padding-left: 15%;
+
 }
