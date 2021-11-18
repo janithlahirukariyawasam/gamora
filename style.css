@@ -99,10 +99,7 @@
 }
 
 #testimonials{
-  padding-left: 15rem;
-  padding-right: 15rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+
   text-align: center;
   background-color: #FFA0A0;
   color: white;
@@ -136,6 +133,10 @@ padding-right: 2rem;
   margin-right: 20px;
   margin-left: 20px;
   margin-bottom: 45px;
-
-
+}
+.carousel-item{
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
