@@ -79,8 +79,8 @@
 }
 
 .hello{
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   padding-left: 10rem;
   padding-right: 10rem;
   text-align: center;
@@ -96,4 +96,40 @@
 }
 .sub{
   font-weight: bolder;
+}
+
+#testimonials{
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  background-color: #FFA0A0;
+  color: white;
+}
+
+.testimonial{
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.img1{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20PX;
+}
+
+#press{
+  background-color: #FFA0A0;
+}
+
+.companies{
+padding-top: 5rem;
+padding-bottom: 5rem;
+}
+.com{
+  text-align: center;
+}
+.coimg{
+  margin-bottom: 40px;
 }
