@@ -1,12 +1,12 @@
-#title{
+#title {
   background-color: #406343;
 }
 
 #features {
-  background-color:  #ff4c68;
+  background-color: #ff4c68;
 }
 
-.topic{
+.topic {
   font-family: 'Montserrat-Black';
   font-size: 3rem;
   line-height: 1.5;
@@ -14,9 +14,11 @@
   color: white;
 }
 
-.container-fluid{
+.containerfluid {
+  padding-right: 15rem;
   padding-top: 3%;
-  padding-right: 15%;
-  padding-left: 15%;
-
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15rem;
 }
