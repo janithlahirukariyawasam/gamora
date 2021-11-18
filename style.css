@@ -91,7 +91,9 @@
  margin-bottom: 15px;
  color: #FFA0A0;
 }
-
+.icon:hover{
+  color:#ff4c68;
+}
 .sub{
   font-weight: bolder;
 }
