@@ -1,5 +1,5 @@
 #title {
-  background-color: #000000;
+  background-color: #FF5C58;
 }
 
 #features {
@@ -51,6 +51,25 @@
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding-top: 0.5rem;
-
   font-size: 1.5rem;
+}
+
+.btn {
+  margin-right: 5%;
+  margin-top: 3%;
+  margin-bottom: 0%;
+}
+
+.phone {
+  width: 60%;
+  transform: rotate(20deg);
+}
+
+
+.colcustom {
+  position: relative;
+  width: 100%;
+  min-height: 1 px;
+  padding-right: 15 px;
+  padding-left: 15 px;
 }
