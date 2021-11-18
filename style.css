@@ -126,10 +126,16 @@
 .companies{
 padding-top: 5rem;
 padding-bottom: 5rem;
+padding-left: 2rem;
+padding-right: 2rem;
 }
 .com{
   text-align: center;
 }
 .coimg{
+  margin-right: 20px;
+  margin-left: 20px;
   margin-bottom: 45px;
+
+
 }
