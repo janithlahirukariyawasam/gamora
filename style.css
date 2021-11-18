@@ -3,7 +3,7 @@
 }
 
 #features {
-  background-color: #ff4c68;
+  background-color: #ff4g68;
 }
 
 .topic {
@@ -72,4 +72,8 @@
   min-height: 1 px;
   padding-right: 15 px;
   padding-left: 15 px;
+}
+.medium{
+  margin-left: auto;
+  margin-right: auto;
 }
