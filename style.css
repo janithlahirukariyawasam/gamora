@@ -159,3 +159,25 @@ padding-right: 2rem;
 .text-muted{
   color: white;
 }
+.btton {
+  background-color: #ff4c68;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 3%;
+}
+.btton:hover {
+  background-color:#ff4c68;
+  color: white;
+}
+.contact-me{
+padding-top: 5rem;
+padding-bottom: 10rem;
+}
+#cta{
+    background-color:  #ff4c68;
+    text-align: center;
+}
