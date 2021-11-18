@@ -77,3 +77,15 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.hello{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+
+}
+
+.icon{
+  width: 35%;
+}
